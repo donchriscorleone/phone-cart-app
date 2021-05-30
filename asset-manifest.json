@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/phone-cart-app/static/css/main.9e30ecf5.chunk.css",
+    "main.js": "/phone-cart-app/static/js/main.087a2111.chunk.js",
+    "main.js.map": "/phone-cart-app/static/js/main.087a2111.chunk.js.map",
+    "runtime-main.js": "/phone-cart-app/static/js/runtime-main.c938408b.js",
+    "runtime-main.js.map": "/phone-cart-app/static/js/runtime-main.c938408b.js.map",
+    "static/js/2.576c4a3e.chunk.js": "/phone-cart-app/static/js/2.576c4a3e.chunk.js",
+    "static/js/2.576c4a3e.chunk.js.map": "/phone-cart-app/static/js/2.576c4a3e.chunk.js.map",
+    "index.html": "/phone-cart-app/index.html",
+    "static/css/main.9e30ecf5.chunk.css.map": "/phone-cart-app/static/css/main.9e30ecf5.chunk.css.map",
+    "static/js/2.576c4a3e.chunk.js.LICENSE.txt": "/phone-cart-app/static/js/2.576c4a3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c938408b.js",
+    "static/js/2.576c4a3e.chunk.js",
+    "static/css/main.9e30ecf5.chunk.css",
+    "static/js/main.087a2111.chunk.js"
+  ]
+}
